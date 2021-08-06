@@ -1,7 +1,7 @@
 # alstrom-ui
 
 <h1><center>Project Title:Library Management System</center></h1>
-<p>A library management system is for managing the book information digitally.The users can register their profile to the Library management system.They can create an account if user is new to the library management system.After creating an account they can login and view their personal page.In personal page lot of options are available by using that they can search the books.The available options are:</p>
+<p style="text-align:justify">A library management system is for managing the book information digitally.The users can register their profile to the Library management system.They can create an account if user is new to the library management system.After creating an account they can login and view their personal page.In personal page lot of options are available by using that they can search the books.The available options are:</p>
   <ul>
     <li>Search book by Book Name</li>
     <li>Search book by Author Name</li>
@@ -11,10 +11,10 @@
   </ul>
   
   
- <p>They can select the book based on their requirements and using different searching methods available in their personal page and if they want they can further proceed to issue process of the book what they have selected.The library management system return the information about the issue date and return date.The Books should be returned on specified return date or they can renew on that particular date.If the date beyond the due date,fine should be calculated according to that.</p>
+<p style="text-align:justify">They can select the book based on their requirements and using different searching methods available in their personal page and if they want they can further proceed to issue process of the book what they have selected.The library management system return the information about the issue date and return date.The Books should be returned on specified return date or they can renew on that particular date.If the date beyond the due date,fine should be calculated according to that.</p>
 
 
-<p>The Library Management System may have one Admin or multiple admins to maintain and monitor the operations.An admin can login as a admin by using admin Id and Admin password.After logged in,admin can view the personal page.In personal page of admin,many functions are available.The available operations are:</p>
+<p style="text-align:justify">The Library Management System may have one Admin or multiple admins to maintain and monitor the operations.An admin can login as a admin by using admin Id and Admin password.After logged in,admin can view the personal page.In personal page of admin,many functions are available.The available operations are:</p>
  <ul>
     <li>The Admin can add books to the system</li>
     <li>The Admin can delete books to the system</li>
@@ -24,4 +24,4 @@
     <li>The Admin can find user by Id</li>
     <li>The Admin can find user by Name</li>
   </ul>
-<p>Admin can see the list of users and books.Admin can view the details of the particular user and book issued to the user and return date. The book fine will vary with the date delayed. 
+<p style="text-align:justify">Admin can see the list of users and books.Admin can view the details of the particular user and book issued to the user and return date. The book fine will vary with the date delayed. 
