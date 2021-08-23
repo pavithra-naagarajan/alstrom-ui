@@ -1,0 +1,48 @@
+@charset "ISO-8859-1";
+h2{
+	font-family: fantasy;
+	color :darkgreen;
+	size:xx-large;
+	font-weight:bold;
+}
+
+h1{
+	font-family: sans-serif;
+	color : green;
+	size:medium;
+}
+table{
+	background-color:lightgreen;
+}
+td{
+	border-style:dashed;
+	border-color:darkblue;
+	border-width:3px;
+}
+body{
+	background:orange;
+	color:black;
+}
+A:link{
+	color:black;
+}
+A:visited{
+	color:blue;
+}
+A:hover{
+	color:pink;
+}
+h1,h4{
+	color:red;
+}
+.redclass{
+	color:green;
+	font-weight:bold;
+}
+
+p#producId{
+	border-style:dashed;
+	border-width:2px;
+	border-color:lime;
+	
+}
